@@ -1,6 +1,13 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.26;
 
+/*
+
+Twitter: https://x.com/UseOrbitAI
+Telegram: https://t.me/+GldCgdRkTPliOTFh
+
+*/
+
 abstract contract Context {
     function _msgSender() internal view virtual returns (address) {
         return msg.sender;
